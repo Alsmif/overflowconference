@@ -601,3 +601,33 @@ footer button {
     width: auto;
 }
 
+
+.section1 {
+    background-image: url(fundo-mobile/1.jpg);
+    width: auto;
+    height: 500px;
+}
+
+.section2 {
+    background-image: url(fundo-mobile/2.jpg);
+    width: auto;
+    height: 500px;
+}
+
+.section3 {
+    background-image: url(fundo-mobile/3.jpg);
+    width: auto;
+    height: 500px;
+}
+
+.section1 p {
+    display: none;
+}
+
+.section2 p {
+    display: none;
+}
+
+.section3 p {
+    display: none;
+}
