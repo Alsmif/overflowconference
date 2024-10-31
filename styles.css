@@ -913,6 +913,8 @@ button a:visited {
     margin-top: 10px;
     margin-bottom: 0px;
     font-weight: bold;
+    color: inherit;
+    text-decoration: none;
 }
 
 .map-container {
