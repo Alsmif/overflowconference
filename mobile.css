@@ -299,8 +299,12 @@ nav .logo img {
 }
 
 .description h2 {
-    font-size: 1.5em;
+    font-size: 1.4em;
     margin-bottom: 10px;
+}
+
+.description p {
+    font-size: 1.4em;
 }
 
 .what-section {
